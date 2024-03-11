@@ -9,6 +9,8 @@ Alguns dos principais comandos do terminal
   - touch : cria um novo arquivo vazio ou atualiza o timestamp de um arquivo existente
   - mkdir : cria um novo diretório
   - rm : remove arquivos ou diretórios
+      - rm nome_arquivo
+      - rm -r nome_diretorio
   - cp : copia arquivos ou diretórios
 # Gerenciamento de processos
   - ps : lista os processos em execução no sistema
