@@ -12,6 +12,7 @@ Alguns dos principais comandos do terminal
       - rm nome_arquivo
       - rm -r nome_diretorio
   - cp : copia arquivos ou diretórios
+      - cp nome_arquivo diretorio_origem -r diretorio_destino
 # Gerenciamento de processos
   - ps : lista os processos em execução no sistema
   - top/htop : usados para mostrar os processos em execução e seu consumo de recursos em tempo real
