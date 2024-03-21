@@ -27,6 +27,7 @@ Alguns dos principais comandos do terminal
 # Ajuda e Documentação
   - man : usado para exibir o manual de um comando específico. Ele fornece informações detalhadas sobre como usar o comando, suas opções e argumentos
   - --help : a opção --help pode ser adicionada a qualquer comando para obter informações de ajuda sobre esse comando. Ela exibe uma breve descrição do comando, suas opções e argumentos
+  - tldr : 
 # desligar ou reiniciar o sistema
   - shutdown : O comando shutdown é usado para desligar ou reiniciar um sistema Linux de forma segura. Ele permite que os usuários encerrem todas as operações do sistema de maneira controlada, garantindo que nenhum dado seja perdido e que os serviços sejam finalizados adequadamente.
     - -h: Desliga o sistema após o tempo especificado.
