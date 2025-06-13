@@ -1,1 +1,0 @@
-# praticando shell script
