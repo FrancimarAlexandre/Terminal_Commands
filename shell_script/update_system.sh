@@ -16,7 +16,7 @@ case $ID in
 	;;
 	fedora)
 		echo "Atualizando sistema com DNF..."
-		sudo zypper update -y
+		sudo dnf update -y
 		
 	;;
 	void)
