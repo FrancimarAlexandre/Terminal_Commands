@@ -17,6 +17,7 @@ case $ID in
 	fedora)
 		echo "Atualizando sistema com DNF..."
 		sudo zypper update -y
+		
 	;;
 	void)
 		echo "Atualizando sistema com XBPS"
