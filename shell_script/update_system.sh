@@ -6,7 +6,7 @@ source /etc/os-release
 echo "Detectando distribuição Linux: $NAME"
 
 case $ID in
-	ubuntu|debian)
+	ubuntu|debian|linuxmint)
 		echo "Atualizando sistema com APT..."
 		sudo apt update && sudo apt upgrade -y
 		;;
