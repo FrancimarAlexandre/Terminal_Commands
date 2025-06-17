@@ -9,7 +9,7 @@ Como usar:
 
 `cd Terminal_Comandes/shell_script/`
 
-`chmod +X nome_arquivo.sh`
+`chmod +x nome_arquivo.sh`
 
 `./nome_arquivo.sh`
 
