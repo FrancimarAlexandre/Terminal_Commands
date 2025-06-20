@@ -17,3 +17,10 @@ Como usar:
 
 [automação system update](update_system.sh)
 
+[atualizando sistema ao iniciar o sistema Crontab + @reboot](automa_system_update.sh)
+
+# `Crontab` com `@reboot` - Executar comandos na inicialização
+
+- @reboot: É um parâmetro especial do `cron` que permite agendar um comando para ser executado automaticamente toda vez que o sistema for iniciado(boot)
+    - obs: Diferente dos agendamentos comuns no cron(horários específicos), o `@reboot` roda uma única vez, logo após o sistema ser iniciado.
+
