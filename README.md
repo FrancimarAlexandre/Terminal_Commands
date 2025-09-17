@@ -5,6 +5,8 @@
 Repositório com os principais comandos utilizados no terminal Linux, organizados por categorias com descrições, exemplos e observações práticas. Ideal para quem está começando ou quer revisar comandos essenciais.
 
 ---
+[automação usando shell script](shell_script)
+---
 
 ### 📂 Categorias disponíveis:
 
